@@ -1,4 +1,4 @@
-# auka-01-1TDSPO
+# aula-01-1TDSPO
 # 🚀 Meu Repositório
 
 Olá, mundo! 👋
